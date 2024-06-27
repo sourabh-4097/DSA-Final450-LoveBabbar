@@ -1,0 +1,11 @@
+How to Identify
+
+1. Choice will be there
+2. Optimal ans is asked
+3. If recursion has 2 calls, its DP
+
+DP = recursion + storage
+
+Think of --
+1. Base condition &
+2. Choice diagram
